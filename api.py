@@ -13,7 +13,8 @@ app = Flask(__name__)
 
 # List of allowed origins
 origins = [
-    "http://localhost:3000"
+    "http://localhost:3000",
+    "https://ward-web.netlify.app"
 ]
 
 CORS(app, resources={r"/*": {"origins": origins}})
