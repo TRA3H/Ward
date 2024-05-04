@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Version control
+.git
+.gitignore
+
+# Development tools
+.vscode/
+.idea/
+
+# Data and logs that should not be in the image
+datasets/
+logs/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python environment files
+venv/
+*.venv
+env/
+*.env
+
