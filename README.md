@@ -6,6 +6,10 @@ Welcome to Ward, an intelligent clothing classification API hosted on a home ser
 
 Ward is a cutting-edge API designed to analyze images and identify the type of clothing depicted. Built for integration with a React-based web application, Ward offers a seamless backend service for users looking to classify clothing from photos.
 
+## Website Try it Out
+
+For a full-fledged user interface experience, visit the Ward web application (URL to be added).
+
 ## Features
 
 - **Image Classification:** Upload an image to the API, and get instant predictions on the type of clothing.
@@ -59,9 +63,5 @@ Contributions to Ward are welcome! Please follow the standard fork-and-pull requ
 ## License
 
 This project is licensed under the MIT License.
-
-## Website
-
-For a full-fledged user interface experience, visit the Ward web application (URL to be added).
 
 
