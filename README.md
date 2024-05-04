@@ -24,29 +24,29 @@ To start using the Ward API, ensure you have the following prerequisites:
 
 Clone the repository to your local machine or server:
 
-\`\`\`bash
+```bash
 git clone <repository-url>
-\`\`\`
+```
 
 Navigate to the project directory:
 
-\`\`\`bash
+```bash
 cd <project-directory>
-\`\`\`
+```
 
 Install the required dependencies:
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ### Usage
 
 To start the API server, run the following command:
 
-\`\`\`bash
+```bash
 sh run_gunicorn.sh
-\`\`\`
+```
 
 ### API Endpoints
 
