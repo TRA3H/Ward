@@ -58,7 +58,7 @@ Contributions to Ward are welcome! Please follow the standard fork-and-pull requ
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
 
 ## Website
 
