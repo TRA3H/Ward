@@ -8,7 +8,7 @@ Ward is a cutting-edge API designed to analyze images and identify the type of c
 
 ## Website (Try it Out)
 
-For a full-fledged user interface experience, visit the Ward web application (URL to be added).
+For a full-fledged user interface experience, visit the Ward web application [(https://ward-web.netlify.app/).](https://ward-web.netlify.app/)
 
 ## Features
 
